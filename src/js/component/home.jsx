@@ -1,7 +1,8 @@
 import React from "react";
+import {TopNav} from "./TopNav";
+import {Jumbotron} from "./Jumbotron";
 
-//include images into your bundle
-import rigoImage from "../../img/rigo-baby.jpg";
-
-// import {TopNav} 
-//create your first component
+ const Home = () => {
+	
+ }
+		
